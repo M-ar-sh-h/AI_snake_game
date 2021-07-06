@@ -4,5 +4,5 @@ Reinforcement Learning implementation of the classic snake game using **Pytorch*
 
 - cd into the project directory and run *agent.py*
 
-![screenshot](C:/Users/HP\Codes/ai_snakegame/Screenshot.png)
+![screenshot](Screenshot.png)
 
